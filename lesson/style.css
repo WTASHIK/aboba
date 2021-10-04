@@ -1,0 +1,28 @@
+.table{
+    border-collapse: collapse;
+    background-image: linear-gradient( rgb(255, 251, 0) ,rgb(196, 21, 196), rgb(0, 238, 255) )
+}
+
+.line1{
+    border: 1px solid navy;
+    font-size: 40px;
+    padding: 20px;
+    transition: .3s;
+}
+.line1:hover{
+    padding: 50px;
+    color: paleturquoise;
+}
+.mw{
+    
+    border: 1px solid navy;
+    font-size: 40px;
+    padding: 20px;
+    transition: .7s;
+   
+}
+
+.mw:hover{
+    padding: 20px;
+    color: paleturquoise;
+}

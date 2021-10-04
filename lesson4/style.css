@@ -1,0 +1,63 @@
+/*.shadow{
+border: 1px green;
+width: 250px;
+height: 250px;
+background-color: magenta;
+box-shadow: 5px 2px 15px 15px mediumblue;
+}
+.shadow{
+    -webkit-box-shadow: 7px -5px 10px 0px #4B0082, 11px -9px 10px 0px #0000FF, 16px -14px 10px 0px #00FF00, 20px -17px 10px 0px #FFFF00, 24px -19px 10px 0px #FF7F00, 27px -23px 10px 0px #FF0000, 18px 4px 19px 10px rgba(194,59,255,0); 
+box-shadow: 7px -5px 10px 0px #4B0082, 11px -9px 10px 0px #0000FF, 16px -14px 10px 0px #00FF00, 20px -17px 10px 0px #FFFF00, 24px -19px 10px 0px #FF7F00, 27px -23px 10px 0px #FF0000, 18px 4px 19px 10px rgba(194,59,255,0);}*/
+
+.cv{
+    color: mediumturquoise;
+    
+}
+.hdtx{
+    text-align: center;
+}
+
+.table{
+    -webkit-box-shadow: 2px 2px 32px 14px rgba(0,0,0,0.41); 
+box-shadow: 2px 2px 32px 14px rgba(0,0,0,0.41);
+border: black 16px;
+border-collapse:collapse;
+margin: 10px ;
+
+
+
+
+}
+
+.rl{
+  color:rgb(35, 109, 247)  
+}
+.lol{
+    color:goldenrod
+}
+.cod{
+    color:orange
+
+}
+.rus{
+    color: red
+}
+.ua{
+    color: rgb(199, 199, 37);
+  
+}
+.eng{
+    color: rgb(36, 101, 241)
+}
+.info{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skill{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lngh{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hr{
+    padding:  20px;
+}

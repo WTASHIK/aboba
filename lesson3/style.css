@@ -1,0 +1,48 @@
+/*
+.text{
+    color: red;
+    background-color: cornflowerblue;
+    font-size: 30px;
+    border: solid  10px  rgba(40, 179, 40, 0.514);
+    padding-left: 15px;
+}
+.text1{
+    color: fuchsia;
+    font-size: 15px;
+    border: solid 10px;
+    padding: 50px 15px 40px 45px;
+
+}
+
+.text2{
+    color: navy;
+    font-size: 40px;
+    border:olive 40px dotted
+}
+*/
+.table{
+    border-collapse: collapse;
+    background-image: linear-gradient( rgb(255, 251, 0) ,rgb(196, 21, 196), rgb(0, 238, 255) )
+}
+
+.cell{
+    border: 1px solid navy;
+    font-size: 40px;
+    padding: 20px;
+    transition: .3s;
+}
+.cell:hover{
+    padding: 50px;
+    color: paleturquoise;
+}
+.head{
+    border: 1px solid navy;
+    font-size: 40px;
+    padding: 20px;
+    transition: .7s;
+}
+
+.head:hover{
+    padding: 20px;
+    color: paleturquoise;
+}

@@ -1,0 +1,41 @@
+.web{
+color: rgb(0, 255, 0);
+}
+
+.sc{
+ color: cyan;
+}
+
+.insta{
+    color:deeppink;
+    background-color: orange;
+}
+.steam{
+    color: mediumblue;
+    background-color: mintcream;
+}
+.img{
+    width: 300px;
+    height: 300px;
+    border-radius: 39%;
+}
+*{
+    background-color: rgb(182, 137, 212);
+}
+.name{
+    color: rgb(6, 179, 248);
+    font-family: 'Montserrat', sans-serif;
+}
+.hb{
+    color: whitesmoke;
+}
+.l1{
+    color:yellowgreen;
+}
+.l2{
+    color: yellow;
+}
+.mw{
+    font-family: 'Montserrat', sans-serif;
+
+}
